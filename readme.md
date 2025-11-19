@@ -55,7 +55,7 @@ using underlying dictionary structures.
 - Dropdown menus for UI  
 - Coordinates list for drawing map routes  
 
-➡ Even though we do not create a linked list or tree manually, the graph itself internally uses hashing and adjacency lists.
+Even though we do not create a linked list or tree manually, the graph itself internally uses hashing and adjacency lists.
 
 ---
 
@@ -139,3 +139,4 @@ The UI displays:
 # **Install dependencies:**
 
 **````pip install streamlit folium networkx streamlit-folium````**
+
